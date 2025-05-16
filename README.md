@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -17,3 +18,6 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+image used as navigation background: Photo by Andre Tan on Unsplash
+>>>>>>> 23f37eca570199a9aa2d622a11a7414ee262408d
