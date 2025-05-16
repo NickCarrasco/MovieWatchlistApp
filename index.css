@@ -23,7 +23,7 @@ header{
     align-items: center;
     padding: 0 42px;
     background-color: rgba(0, 0, 0, 0.8);
-    background-image: url(headerImage.jpg);
+    background-image: url(/headerImage.jpg);
     background-size: 99%;
     background-position-x: 35%;
     background-position-y: 25%;

@@ -76,7 +76,7 @@ function renderMovies(){
     if(!searchInput.value){
         moviesSection.innerHTML = `
         <div class="no-search-screen">
-            <img src="filmIcon.png">
+            <img src="/filmIcon.png">
             <p>Start exploring</p> 
         </div>
         `
