@@ -4,7 +4,7 @@ Solo project from the working with APIs course on [Scrimba](https://scrimba.com/
 
 ## Link
 
-[Project Url](nickcarrasc.github.io) (hosted on Github Pages)
+[Project Url](nickcarrasco.github.io) (hosted on Github Pages)
 
 ## Project Requirements
 
