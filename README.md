@@ -4,7 +4,7 @@ Solo project from the working with APIs course on [Scrimba](https://scrimba.com/
 
 ## Link
 
-[Project Url](nickcarrasco.github.io) (hosted on Github Pages)
+[Project Url](https://nickcarrasco.github.io) (hosted on Github Pages)
 
 ## Project Requirements
 
@@ -17,10 +17,10 @@ Solo project from the working with APIs course on [Scrimba](https://scrimba.com/
 
 - Developed a movie search and watchlist web application using HTML, CSS, and vanilla JavaScript
 - Integrated OMDb API to fetch movie data including titles, posters, release years, and IMDb ratings
-- Implemented real-time search functionality with asynchronous API calls (fetch, async/await)
+- Implemented real-time search functionality with asynchronous API calls (`fetch, async/await`)
 - Enabled users to add movies to a personal watchlist with a single click
-- Created a separate watchlist page that retrieves and displays saved movies from localStorage
-- Used localStorage to persist the watchlist across sessions without requiring backend support
+- Created a separate watchlist page that retrieves and displays saved movies from `localStorage`
+- Used `localStorage` to persist the watchlist across sessions without requiring backend support
 - Added functionality to remove movies from the watchlist, updating both the UI and stored data
 - Applied dynamic DOM manipulation to render movie cards and update the interface in real-time
 - Structured code for modularity and readability, using semantic HTML5 and organized JS functions
